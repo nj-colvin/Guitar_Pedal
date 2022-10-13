@@ -1,0 +1,4 @@
+../Core/Src/UART.c:10:6:UART_Setup	8	static
+../Core/Src/UART.c:32:6:UART_DMA_Setup	4	static
+../Core/Src/UART.c:48:6:UART_Transmit	16	static
+../Core/Src/UART.c:63:6:UART_Buffer_Is_Free	4	static

@@ -1,0 +1,7 @@
+../Core/Src/SPI.c:11:6:SPI_Setup	8	static
+../Core/Src/SPI.c:34:6:SPI_DMA_Setup	4	static
+../Core/Src/SPI.c:56:6:TIMER2_Setup	4	static
+../Core/Src/SPI.c:83:6:TIMER3_Setup	4	static
+../Core/Src/SPI.c:111:6:SPI_In_Progress	4	static
+../Core/Src/SPI.c:118:6:SPI_Stream	16	static
+../Core/Src/SPI.c:126:6:SPI_Communicate	24	static

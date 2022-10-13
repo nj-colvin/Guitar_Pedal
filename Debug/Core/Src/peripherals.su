@@ -1,0 +1,10 @@
+../Drivers/CMSIS/Include/core_cm7.h:1896:22:__NVIC_EnableIRQ	16	static
+../Core/Src/peripherals.c:11:6:GPIO_Setup	4	static
+../Core/Src/peripherals.c:95:6:TIMER4_Setup	4	static
+../Core/Src/peripherals.c:125:6:TIMER5_Setup	4	static
+../Core/Src/peripherals.c:142:6:TIMER6_Setup	4	static
+../Core/Src/peripherals.c:169:6:TIMER12_Setup	4	static
+../Core/Src/peripherals.c:187:6:RNG_Setup	4	static
+../Core/Src/peripherals.c:196:6:EXTI_Setup	8	static
+../Core/Src/peripherals.c:216:6:ADC_Setup	16	static
+../Core/Src/peripherals.c:273:6:ADC_DMA_Setup	16	static
